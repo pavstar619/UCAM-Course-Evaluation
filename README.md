@@ -1,9 +1,10 @@
 # UCAM-Course-Evaluation
 
 ## Steps:
-1. Select course
-2. Select Expected Grade
-3. Right click browser and choose Inspect (Ctrl+Shift+I)
-4. Click the Console Tab
-5. Copy the given code in the console and press Enter.
-6. Done!
+1. Go to UCAM Course Evaluation page.
+2. Select course.
+3. Select Expected Grade.
+4. Right click browser and choose Inspect (Ctrl+Shift+I).
+5. Click the Console Tab.
+6. Copy the given code in the console and press Enter.
+7. Done!
