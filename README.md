@@ -1,6 +1,6 @@
 # UCAM-Course-Evaluation
 
-##Steps:
+## Steps:
 1. Select course
 2. Select Expected Grade
 3. Right click browser and choose Inspect (Ctrl+Shift+I)
